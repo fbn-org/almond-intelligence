@@ -113,6 +113,7 @@ def run_inference(model: nn.Module, device: torch.device, img_path: str) -> floa
     x = preprocess(img_path).to(device)
     with torch.no_grad():
         d = model(x)  # [1,1,H,W]
+        print(d)
         count = float(d.sum().item())
     return count
 
@@ -166,4 +167,4 @@ def predict(img_path):
     print(f"[result] {Path(img_path).name}: estimated almonds = {count:.3f}")
 
     # adding this -1 makes it perform so much better for some reason LOL
-    return int(count) - 1
+    return int(count) if int(count) > 0 else 0

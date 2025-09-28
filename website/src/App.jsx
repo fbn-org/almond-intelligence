@@ -143,10 +143,10 @@ function App() {
                         <hr className='border-black border-4 my-1' />
                         <Section template={vitamins} data={count} />
                         <hr className='border-black border-4 my-1' />
-                        {/* <p className='text-sm'>
+                        <p className='text-sm'>
                             The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a
                             daily diet. 2,000 calories a day is used for general nutrition advice.
-                        </p> */}
+                        </p>
                     </div>
                 </div>
                 <Webcam
