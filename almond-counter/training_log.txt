@@ -1,0 +1,242 @@
+Using device: mps
+Epoch 1/120 - Train Loss: 0.010792
+           Validation MAE (count): 23110.9605
+Epoch 2/120 - Train Loss: 0.006007
+           Validation MAE (count): 15908.9457
+Epoch 3/120 - Train Loss: 0.002678
+           Validation MAE (count): 7970.9173
+Epoch 4/120 - Train Loss: 0.001005
+           Validation MAE (count): 1412.7642
+Epoch 5/120 - Train Loss: 0.000787
+           Validation MAE (count): 2085.1348
+Epoch 6/120 - Train Loss: 0.000648
+           Validation MAE (count): 1192.4480
+Epoch 7/120 - Train Loss: 0.000444
+           Validation MAE (count): 1111.0761
+Epoch 8/120 - Train Loss: 0.000345
+           Validation MAE (count): 838.5979
+Epoch 9/120 - Train Loss: 0.000285
+           Validation MAE (count): 927.3592
+Epoch 10/120 - Train Loss: 0.000233
+           Validation MAE (count): 809.3465
+Epoch 11/120 - Train Loss: 0.000198
+           Validation MAE (count): 668.0519
+Epoch 12/120 - Train Loss: 0.000158
+           Validation MAE (count): 546.8954
+Epoch 13/120 - Train Loss: 0.000128
+           Validation MAE (count): 768.6196
+Epoch 14/120 - Train Loss: 0.000102
+           Validation MAE (count): 541.2911
+Epoch 15/120 - Train Loss: 0.000082
+           Validation MAE (count): 364.8379
+Epoch 16/120 - Train Loss: 0.000069
+           Validation MAE (count): 426.5178
+Epoch 17/120 - Train Loss: 0.000058
+           Validation MAE (count): 392.0628
+Epoch 18/120 - Train Loss: 0.000048
+           Validation MAE (count): 366.6447
+Epoch 19/120 - Train Loss: 0.000041
+           Validation MAE (count): 425.4105
+Epoch 20/120 - Train Loss: 0.000037
+           Validation MAE (count): 299.5431
+Epoch 21/120 - Train Loss: 0.000030
+           Validation MAE (count): 324.2014
+Epoch 22/120 - Train Loss: 0.000028
+           Validation MAE (count): 263.5308
+Epoch 23/120 - Train Loss: 0.000024
+           Validation MAE (count): 217.5605
+Epoch 24/120 - Train Loss: 0.000022
+           Validation MAE (count): 259.8955
+Epoch 25/120 - Train Loss: 0.000020
+           Validation MAE (count): 229.0099
+Epoch 26/120 - Train Loss: 0.000019
+           Validation MAE (count): 169.0486
+Epoch 27/120 - Train Loss: 0.000019
+           Validation MAE (count): 346.7884
+Epoch 28/120 - Train Loss: 0.000017
+           Validation MAE (count): 297.8835
+Epoch 29/120 - Train Loss: 0.000016
+           Validation MAE (count): 355.8768
+Epoch 30/120 - Train Loss: 0.000016
+           Validation MAE (count): 124.5065
+Epoch 31/120 - Train Loss: 0.000015
+           Validation MAE (count): 95.4505
+Epoch 32/120 - Train Loss: 0.000015
+           Validation MAE (count): 254.2824
+Epoch 33/120 - Train Loss: 0.000015
+           Validation MAE (count): 238.8975
+Epoch 34/120 - Train Loss: 0.000013
+           Validation MAE (count): 199.3819
+Epoch 35/120 - Train Loss: 0.000013
+           Validation MAE (count): 147.7138
+Epoch 36/120 - Train Loss: 0.000012
+           Validation MAE (count): 91.8013
+Epoch 37/120 - Train Loss: 0.000012
+           Validation MAE (count): 193.3126
+Epoch 38/120 - Train Loss: 0.000012
+           Validation MAE (count): 221.8905
+Epoch 39/120 - Train Loss: 0.000011
+           Validation MAE (count): 77.7760
+Epoch 40/120 - Train Loss: 0.000011
+           Validation MAE (count): 267.2773
+Epoch 41/120 - Train Loss: 0.000011
+           Validation MAE (count): 165.3529
+Epoch 42/120 - Train Loss: 0.000010
+           Validation MAE (count): 63.8432
+Epoch 43/120 - Train Loss: 0.000010
+           Validation MAE (count): 150.9196
+Epoch 44/120 - Train Loss: 0.000010
+           Validation MAE (count): 125.3595
+Epoch 45/120 - Train Loss: 0.000009
+           Validation MAE (count): 231.1010
+Epoch 46/120 - Train Loss: 0.000009
+           Validation MAE (count): 109.6275
+Epoch 47/120 - Train Loss: 0.000009
+           Validation MAE (count): 208.1324
+Epoch 48/120 - Train Loss: 0.000009
+           Validation MAE (count): 92.8426
+Epoch 49/120 - Train Loss: 0.000009
+           Validation MAE (count): 184.1298
+Epoch 50/120 - Train Loss: 0.000008
+           Validation MAE (count): 125.9351
+Epoch 51/120 - Train Loss: 0.000008
+           Validation MAE (count): 180.0905
+Epoch 52/120 - Train Loss: 0.000008
+           Validation MAE (count): 118.5089
+Epoch 53/120 - Train Loss: 0.000008
+           Validation MAE (count): 94.7830
+Epoch 54/120 - Train Loss: 0.000008
+           Validation MAE (count): 223.7857
+Epoch 55/120 - Train Loss: 0.000008
+           Validation MAE (count): 107.1963
+Epoch 56/120 - Train Loss: 0.000007
+           Validation MAE (count): 110.3757
+Epoch 57/120 - Train Loss: 0.000007
+           Validation MAE (count): 102.9555
+Epoch 58/120 - Train Loss: 0.000007
+           Validation MAE (count): 51.5777
+Epoch 59/120 - Train Loss: 0.000007
+           Validation MAE (count): 107.3153
+Epoch 60/120 - Train Loss: 0.000007
+           Validation MAE (count): 70.9512
+Epoch 61/120 - Train Loss: 0.000007
+           Validation MAE (count): 104.7661
+Epoch 62/120 - Train Loss: 0.000007
+           Validation MAE (count): 71.6401
+Epoch 63/120 - Train Loss: 0.000006
+           Validation MAE (count): 108.2575
+Epoch 64/120 - Train Loss: 0.000006
+           Validation MAE (count): 134.4457
+Epoch 65/120 - Train Loss: 0.000006
+           Validation MAE (count): 71.8626
+Epoch 66/120 - Train Loss: 0.000006
+           Validation MAE (count): 71.2732
+Epoch 67/120 - Train Loss: 0.000006
+           Validation MAE (count): 108.7367
+Epoch 68/120 - Train Loss: 0.000006
+           Validation MAE (count): 50.6484
+Epoch 69/120 - Train Loss: 0.000006
+           Validation MAE (count): 146.7927
+Epoch 70/120 - Train Loss: 0.000006
+           Validation MAE (count): 101.6484
+Epoch 71/120 - Train Loss: 0.000005
+           Validation MAE (count): 86.9587
+Epoch 72/120 - Train Loss: 0.000005
+           Validation MAE (count): 102.7526
+Epoch 73/120 - Train Loss: 0.000005
+           Validation MAE (count): 74.7162
+Epoch 74/120 - Train Loss: 0.000005
+           Validation MAE (count): 67.2578
+Epoch 75/120 - Train Loss: 0.000005
+           Validation MAE (count): 95.5088
+Epoch 76/120 - Train Loss: 0.000005
+           Validation MAE (count): 82.9308
+Epoch 77/120 - Train Loss: 0.000005
+           Validation MAE (count): 75.2152
+Epoch 78/120 - Train Loss: 0.000005
+           Validation MAE (count): 79.6839
+Epoch 79/120 - Train Loss: 0.000005
+           Validation MAE (count): 83.0405
+Epoch 80/120 - Train Loss: 0.000005
+           Validation MAE (count): 137.9073
+Epoch 81/120 - Train Loss: 0.000004
+           Validation MAE (count): 57.7931
+Epoch 82/120 - Train Loss: 0.000004
+           Validation MAE (count): 53.2627
+Epoch 83/120 - Train Loss: 0.000004
+           Validation MAE (count): 55.8245
+Epoch 84/120 - Train Loss: 0.000004
+           Validation MAE (count): 140.7083
+Epoch 85/120 - Train Loss: 0.000004
+           Validation MAE (count): 161.9726
+Epoch 86/120 - Train Loss: 0.000004
+           Validation MAE (count): 59.0003
+Epoch 87/120 - Train Loss: 0.000004
+           Validation MAE (count): 45.4871
+Epoch 88/120 - Train Loss: 0.000004
+           Validation MAE (count): 160.7030
+Epoch 89/120 - Train Loss: 0.000004
+           Validation MAE (count): 83.3365
+Epoch 90/120 - Train Loss: 0.000004
+           Validation MAE (count): 42.7533
+Epoch 91/120 - Train Loss: 0.000004
+           Validation MAE (count): 49.1131
+Epoch 92/120 - Train Loss: 0.000004
+           Validation MAE (count): 73.2820
+Epoch 93/120 - Train Loss: 0.000004
+           Validation MAE (count): 155.5704
+Epoch 94/120 - Train Loss: 0.000003
+           Validation MAE (count): 113.1778
+Epoch 95/120 - Train Loss: 0.000003
+           Validation MAE (count): 66.6202
+Epoch 96/120 - Train Loss: 0.000003
+           Validation MAE (count): 50.2607
+Epoch 97/120 - Train Loss: 0.000003
+           Validation MAE (count): 66.6636
+Epoch 98/120 - Train Loss: 0.000003
+           Validation MAE (count): 96.5991
+Epoch 99/120 - Train Loss: 0.000003
+           Validation MAE (count): 67.7696
+Epoch 100/120 - Train Loss: 0.000003
+           Validation MAE (count): 63.7535
+Epoch 101/120 - Train Loss: 0.000003
+           Validation MAE (count): 42.6236
+Epoch 102/120 - Train Loss: 0.000003
+           Validation MAE (count): 65.4774
+Epoch 103/120 - Train Loss: 0.000003
+           Validation MAE (count): 87.4750
+Epoch 104/120 - Train Loss: 0.000003
+           Validation MAE (count): 62.3259
+Epoch 105/120 - Train Loss: 0.000002
+           Validation MAE (count): 39.6574
+Epoch 106/120 - Train Loss: 0.000003
+           Validation MAE (count): 36.6373
+Epoch 107/120 - Train Loss: 0.000002
+           Validation MAE (count): 140.2255
+Epoch 108/120 - Train Loss: 0.000002
+           Validation MAE (count): 87.7788
+Epoch 109/120 - Train Loss: 0.000002
+           Validation MAE (count): 37.5402
+Epoch 110/120 - Train Loss: 0.000002
+           Validation MAE (count): 57.7059
+Epoch 111/120 - Train Loss: 0.000002
+           Validation MAE (count): 111.2130
+Epoch 112/120 - Train Loss: 0.000002
+           Validation MAE (count): 51.8011
+Epoch 113/120 - Train Loss: 0.000002
+           Validation MAE (count): 40.5229
+Epoch 114/120 - Train Loss: 0.000002
+           Validation MAE (count): 37.6360
+Epoch 115/120 - Train Loss: 0.000002
+           Validation MAE (count): 63.9335
+Epoch 116/120 - Train Loss: 0.000002
+           Validation MAE (count): 132.0777
+Epoch 117/120 - Train Loss: 0.000002
+           Validation MAE (count): 123.6107
+Epoch 118/120 - Train Loss: 0.000002
+           Validation MAE (count): 60.1209
+Epoch 119/120 - Train Loss: 0.000002
+           Validation MAE (count): 100.0770
+Epoch 120/120 - Train Loss: 0.000002
+           Validation MAE (count): 57.6869
+Model saved to models/almond_density_model.pth
